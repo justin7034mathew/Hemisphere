@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hemisphere/static/css/main.3b5367be.css",
+    "main.js": "/Hemisphere/static/js/main.fe905c44.js",
+    "static/media/NortherenHemisphere.webp": "/Hemisphere/static/media/NortherenHemisphere.46f90b039babc38934d6.webp",
+    "static/media/southrenhemisphere.jpg": "/Hemisphere/static/media/southrenhemisphere.3295e3314a01b8049ed4.jpg",
+    "index.html": "/Hemisphere/index.html",
+    "main.3b5367be.css.map": "/Hemisphere/static/css/main.3b5367be.css.map",
+    "main.fe905c44.js.map": "/Hemisphere/static/js/main.fe905c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b5367be.css",
+    "static/js/main.fe905c44.js"
+  ]
+}
